@@ -280,9 +280,13 @@ Run the test suite using the following command:
 ---
 ##  Project Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+Task 1: <strike>Develop Vehicle Booking Form and Save Data to Database.</strike>
+ Task 2: <strike>Implement Vehicle Selection with Popup Details.</strike>
+ Task 3: <strike>Assign Drivers to Vehicle Bookings.</strike>
+ Task 4: <strike>Create Booking Table in all-booking.php with Action Buttons.</strike>
+ Task 5: Implement Hierarchical Approval Process for Bookings.
+ Task 6: Build Dashboard for Vehicle Usage Statistics.
+ Task 7: Add Export to Excel Functionality for Booking Reports.
 
 ---
 
