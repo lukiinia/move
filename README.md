@@ -19,13 +19,29 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Move adalah aplikasi manajemen pemesanan kendaraan yang dirancang untuk membantu organisasi atau perusahaan mengelola pemesanan kendaraan dengan efisien. Aplikasi ini mendukung proses pemesanan kendaraan, penugasan pengemudi, dan persetujuan booking secara hierarkis. Dengan antarmuka yang user-friendly dan fitur pelaporan, Move mempermudah monitoring kendaraan sekaligus menyediakan laporan yang bisa diekspor ke Excel.</code>
 
 ---
 
 ##  Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Hierarchical Approval System
+Proses persetujuan booking kendaraan dilakukan secara bertingkat dengan minimal dua level persetujuan.
+
+Vehicle Booking Management
+Formulir pemesanan kendaraan yang mencakup pemilihan kendaraan, penugasan pengemudi, dan jadwal pemesanan.
+
+Driver Assignment
+Admin dapat dengan mudah menugaskan pengemudi yang tersedia untuk setiap pemesanan kendaraan.
+
+Vehicle Usage Dashboard
+Statistik penggunaan kendaraan ditampilkan dalam dashboard yang informatif.
+
+Exportable Booking Reports
+Laporan pemesanan kendaraan dapat diunduh dalam format Excel untuk kebutuhan dokumentasi.
+
+Real-Time Status Updates
+Pantau status pemesanan kendaraan secara langsung, termasuk status persetujuan ('Pending', 'Approved', atau 'Rejected').</code>
 
 ---
 
