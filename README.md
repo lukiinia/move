@@ -15,13 +15,14 @@
 - [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 
----
+
 
 ##  Overview
 
 <code>❯ Move adalah aplikasi manajemen pemesanan kendaraan yang dirancang untuk membantu organisasi atau perusahaan mengelola pemesanan kendaraan dengan efisien. Aplikasi ini mendukung proses pemesanan kendaraan, penugasan pengemudi, dan persetujuan booking secara hierarkis. Dengan antarmuka yang user-friendly dan fitur pelaporan, Move mempermudah monitoring kendaraan sekaligus menyediakan laporan yang bisa diekspor ke Excel.</code>
 
 ---
+
 
 ##  Features
 
@@ -85,7 +86,12 @@ Pantau status pemesanan kendaraan secara langsung, termasuk status persetujuan (
     ├── select-driver.php
     ├── style.css
     └── vehicle-selection.php
-```
+
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+
+
+
 
 
 ###  Project Index
@@ -280,13 +286,28 @@ Run the test suite using the following command:
 ---
 ##  Project Roadmap
 
-Task 1: <strike>Develop Vehicle Booking Form and Save Data to Database.</strike>
+ Task 1: <strike>Develop Vehicle Booking Form and Save Data to Database.</strike>
  Task 2: <strike>Implement Vehicle Selection with Popup Details.</strike>
  Task 3: <strike>Assign Drivers to Vehicle Bookings.</strike>
  Task 4: <strike>Create Booking Table in all-booking.php with Action Buttons.</strike>
  Task 5: Implement Hierarchical Approval Process for Bookings.
  Task 6: Build Dashboard for Vehicle Usage Statistics.
  Task 7: Add Export to Excel Functionality for Booking Reports.
+
+ 
+
+---
+
+##  
+
+ | Username   | Password (hashed)                                           | Role      | Approver Level |
+|------------|-------------------------------------------------------------|-----------|----------------|
+| admin      | $2y$10$ZWeeV7C47Ct/qjbTUjJJoe9ynUkVsI9eeQ4itGyiLtR524MnSG59y | admin     | NULL           |
+| approver1  | $2y$10$zaEPvcjcFVvDFHebX4hvWeBUb5MNQQji/R4WoMxS7AmGnS6EdHrsC | approver  | approver1      |
+| approver2  | $2y$10$AUpUGN4MpDBzGx3iqcO7h.oDqErSdZFA9pX7z.RKaCNNqWqSqCRTi | approver  | approver2      |
+
+
+ 
 
 ---
 
